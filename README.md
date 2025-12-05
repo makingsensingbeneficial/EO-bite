@@ -2,8 +2,8 @@
 ### Satellite processing engine for SENSORBITE
 
 **EO-bite** is an open-source processing toolkit built for scalable Earth Observation (EO) analytics.  
-At this stage, the project focuses primarily on **Sentinel Hub integration** — covering data retrieval, spectral processing, SAR analysis, time-series generation and GIS-ready export.  
-Support for STAC / OpenEO / Copernicus Data Space Ecosystem will be expanded incrementally.
+At this stage, the project focuses primarily on **Sentinel Hub/CDSE integration** - covering data retrieval, spectral processing, SAR analysis, time-series generation and GIS-ready export.  
+Support for STAC / OpenEO / CREODIAS Ecosystem will be expanded incrementally.
 
 Designed as a core EO component within the **SENSORBITE ecosystem**, the repository enables fast prototyping of analytical workflows for agriculture, soil monitoring, water quality, contamination detection, crisis intelligence and environmental change assessment.
 
