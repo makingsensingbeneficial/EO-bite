@@ -13,9 +13,9 @@ Designed as a core EO component within the **SENSORBITE ecosystem**, the reposit
 
 | Component | Status |
 |---|---|
-| **Sentinel Hub Process API** | 🔥 main backend — primary data source |
+| **Sentinel Hub Process API/CDSE** | 🔥 main backend — primary data source |
 | STAC / OpenEO | planned rollout — next milestone |
-| Copernicus Data Space downloads | in roadmap |
+| CREODIAS | in roadmap |
 | Local raster ingestion (COG/GeoTIFF) | modular integration phase |
 
 ➡️ **Right now we are driving development mainly through Sentinel Hub pipelines.**  
