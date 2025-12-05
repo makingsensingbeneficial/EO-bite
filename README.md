@@ -1,5 +1,5 @@
 # 🌍 EO-bite
-### Satellite Processing Engine for Sensorbite
+### Satellite processing engine for SENSORBITE
 
 **EO-bite** is an open-source processing toolkit built for scalable Earth Observation (EO) analytics.  
 At this stage, the project focuses primarily on **Sentinel Hub integration** — covering data retrieval, spectral processing, SAR analysis, time-series generation and GIS-ready export.  
